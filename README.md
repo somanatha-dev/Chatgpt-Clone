@@ -1,1 +1,1 @@
-![Architecture](assets/images/interface.png)
+![Home Page](assets/images/interface.png)
